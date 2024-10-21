@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hawalans.github.io/hawalans.txt.gz
+Sitemap: https://hawalans.github.io/app/hawalans.txt.gz
+Sitemap: https://hawalans.github.io/assets/hawalans.txt.gz
+Sitemap: https://hawalans.github.io/css/hawalans.txt.gz
+Sitemap: https://hawalans.github.io/includes/hawalans.txt.gz
+Sitemap: https://hawalans.github.io/item/hawalans.txt.gz
+Sitemap: https://hawalans.github.io/src/hawalans.txt.gz
